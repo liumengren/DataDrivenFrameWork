@@ -19,3 +19,26 @@ Invalid port. Exiting...
 1547446127927	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.baidu.com/"
 JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
 1547446130340	Marionette	INFO	New connections will no longer be accepted
+1550460099080	geckodriver	INFO	geckodriver 0.19.1 (0000000000000000000000000000000000000000 2017-10-31)
+1550460099091	geckodriver	INFO	Listening on 127.0.0.1:61486
+1550460102333	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\liudh\\AppData\\Local\\Temp\\rust_mozprofile.vGtnGCT1eFSr"
+1550460104770	Marionette	INFO	Enabled via --marionette
+[GFX1-]: CreateShaderResourceView failed for format87
+[GFX1-]: CreateShaderResourceView failed for format87
+[GFX1-]: CreateShaderResourceView failed for format87
+[Child 5384] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5384] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1550460108910	Marionette	INFO	Listening on port 61494
+1550460108976	Marionette	INFO	Listening on port 61494
+1550460109650	Marionette	WARN	TLS certificate errors will be ignored for this session
+1550460109854	Marionette	DEBUG	loaded listener.js
+1550460109943	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1550460110123	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1550460110123	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1550460116156	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://mol.uat.bwoilmarine.com/mybusiness/#/login"
+1550460116184	Marionette	DEBUG	Received DOM event "pageshow" for "http://mol.uat.bwoilmarine.com/mybusiness/#/login"
+1550460121381	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://mol.uat.bwoilmarine.com/mybusiness/#/login"
+1550460125822	Marionette	DEBUG	Received DOM event "pageshow" for "http://mol.uat.bwoilmarine.com/mybusiness/#/login"
+1550460136774	Marionette	DEBUG	Received DOM event "pageshow" for "http://mol.uat.bwoilmarine.com/mybusiness/#/login"
+1550460157713	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1550460167722	Marionette	INFO	New connections will no longer be accepted

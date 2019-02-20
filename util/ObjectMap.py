@@ -20,10 +20,17 @@ def getElements(driver, locateType, locatorExpression):
 
 if __name__ == '__main__':
     from selenium import webdriver
+    import time
     driver = webdriver.Firefox(executable_path="D:\\Browserdriver\\geckodriver.exe")
-    driver.get("http://www.baidu.com")
-    searchBox = getElement(driver, "id", "kw")
-    print(searchBox.tag_name)
-    aList = getElements(driver, "tag name", "a")
-    print(len(aList))
+    driver.get("http://mol.uat.bwoilmarine.com/mybusiness/#/login")
+    driver.maximize_window()
+    time.sleep(10)
+    username = getElement(driver, "id", "username")
+    password = getElement(driver, "id", "password")
+    loginButton =getElement(driver, "xpath", '//span[text()="Login"]/..')
+    username.send_keys("CargoOwnerMOL@bwoil.com")
+    password.send_keys("00000000")
+    time.sleep(10)
+    loginButton.click()
+    time.sleep(10)
     driver.quit()

@@ -13,6 +13,7 @@ class LoginPage(object):
     def getKey(self, optionName):
         try:
             locateType, locatorExpression = self.loginOptions[optionName.lower()].split(">")
+            print(locateType, locatorExpression)
             elementObj = getElement(self.driver, locateType, locatorExpression)
             return elementObj
         except Exception as e:
@@ -23,11 +24,13 @@ if __name__ == '__main__':
     from selenium import webdriver
     import time
     driver = webdriver.Firefox(executable_path="D:\\Browserdriver\\geckodriver.exe")
-    driver.get("http://mol.sit.bwoilmarine.com/mybusiness/#/login")
+    driver.get("http://mol.uat.bwoilmarine.com/mybusiness/#/login")
     driver.implicitly_wait(10)
+    driver.maximize_window()
     login = LoginPage(driver, "Mol_login")
-    login.getKey("loginPage.username").send_keys("bunker2user2@bwoil.com")
+    login.getKey("loginPage.username").send_keys("CargoOwnerMOL@bwoil.com")
     login.getKey("loginPage.password").send_keys("00000000")
+    time.sleep(10)
     login.getKey("loginPage.loginButton").click()
-    time.sleep(5)
+    time.sleep(10)
     driver.quit()

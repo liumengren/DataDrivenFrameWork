@@ -511,3 +511,97 @@ JavaScript error: http://mol.sit.bwoilmarine.com/mybusiness/#/login, line 1: Typ
 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
 
 [GPU 5764] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1550460432984	geckodriver	INFO	geckodriver 0.19.1 (0000000000000000000000000000000000000000 2017-10-31)
+1550460432991	geckodriver	INFO	Listening on 127.0.0.1:61606
+1550460436175	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\liudh\\AppData\\Local\\Temp\\rust_mozprofile.PF7YUCCyrIpS"
+1550460437245	Marionette	INFO	Enabled via --marionette
+[GFX1-]: CreateShaderResourceView failed for format87
+[GFX1-]: CreateShaderResourceView failed for format87
+[GPU 5704] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GFX1-]: CreateShaderResourceView failed for format87
+[Child 5732] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1550460439787	Marionette	INFO	Listening on port 61614
+1550460439790	Marionette	INFO	Listening on port 61614
+1550460439921	Marionette	WARN	TLS certificate errors will be ignored for this session
+1550460439992	Marionette	DEBUG	loaded listener.js
+1550460440020	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1550460440152	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1550460440153	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1550460443484	Marionette	DEBUG	Received DOM event "pageshow" for "http://mol.uat.bwoilmarine.com/mybusiness/#/login"
+1550460445622	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://mol.uat.bwoilmarine.com/mybusiness/#/login"
+1550460445999	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://mol.uat.bwoilmarine.com/mybusiness/#/login"
+1550460447556	Marionette	DEBUG	Received DOM event "pageshow" for "http://mol.uat.bwoilmarine.com/mybusiness/#/login"
+1550460465925	Marionette	DEBUG	Received DOM event "pageshow" for "http://mol.uat.bwoilmarine.com/mybusiness/#/login"
+[GPU 5704] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1404] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1550460551247	geckodriver	INFO	geckodriver 0.19.1 (0000000000000000000000000000000000000000 2017-10-31)
+1550460551254	geckodriver	INFO	Listening on 127.0.0.1:61686
+1550460554390	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\liudh\\AppData\\Local\\Temp\\rust_mozprofile.Q9hP7SNXRwZB"
+1550460555565	Marionette	INFO	Enabled via --marionette
+[GFX1-]: CreateShaderResourceView failed for format87
+[GFX1-]: CreateShaderResourceView failed for format87
+[GPU 6596] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1550460557888	Marionette	INFO	Listening on port 61694
+1550460557890	Marionette	INFO	Listening on port 61694
+1550460558019	Marionette	WARN	TLS certificate errors will be ignored for this session
+1550460558064	Marionette	DEBUG	loaded listener.js
+1550460558095	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1550460560091	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1550460560091	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1550460564626	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://mol.uat.bwoilmarine.com/mybusiness/#/login"
+1550460564669	Marionette	DEBUG	Received DOM event "pageshow" for "http://mol.uat.bwoilmarine.com/mybusiness/#/login"
+1550460567438	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://mol.uat.bwoilmarine.com/mybusiness/#/login"
+1550460569783	Marionette	DEBUG	Received DOM event "pageshow" for "http://mol.uat.bwoilmarine.com/mybusiness/#/login"
+1550460584903	Marionette	DEBUG	Received DOM event "pageshow" for "http://mol.uat.bwoilmarine.com/mybusiness/#/login"
+[Child 5280] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5280] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 6596] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+derResourceView failed for format87
+[GPU 6704] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1550460973244	Marionette	INFO	Listening on port 61773
+1550460973261	Marionette	INFO	Listening on port 61773
+1550460973413	Marionette	WARN	TLS certificate errors will be ignored for this session
+1550460973457	Marionette	DEBUG	loaded listener.js
+1550460973487	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1550460974657	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1550460974657	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1550460979113	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://mol.uat.bwoilmarine.com/mybusiness/#/login"
+[Parent 7004] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1550460979148	Marionette	DEBUG	Received DOM event "pageshow" for "http://mol.uat.bwoilmarine.com/mybusiness/#/login"
+1550460985158	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://mol.uat.bwoilmarine.com/mybusiness/#/login"
+1550460986632	Marionette	DEBUG	Received DOM event "pageshow" for "http://mol.uat.bwoilmarine.com/mybusiness/#/login"
+1550461011622	Marionette	DEBUG	Received DOM event "pageshow" for "http://mol.uat.bwoilmarine.com/mybusiness/#/login"
+[GPU 6704] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 7004] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7028] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7028] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: (msgtype=0x840006,name=PImageBridge::Msg_WillClose) Channel error: cannot send/recv
+
+1550461340864	geckodriver	INFO	geckodriver 0.19.1 (0000000000000000000000000000000000000000 2017-10-31)
+1550461340870	geckodriver	INFO	Listening on 127.0.0.1:61844
+1550461344004	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\liudh\\AppData\\Local\\Temp\\rust_mozprofile.2behbV7GldnW"
+1550461344879	Marionette	INFO	Enabled via --marionette
+[GFX1-]: CreateShaderResourceView failed for format87
+[GFX1-]: CreateShaderResourceView failed for format87
+[GPU 6684] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GFX1-]: CreateShaderResourceView failed for format87
+1550461347556	Marionette	INFO	Listening on port 61852
+1550461347571	Marionette	INFO	Listening on port 61852
+1550461347629	Marionette	WARN	TLS certificate errors will be ignored for this session
+1550461347670	Marionette	DEBUG	loaded listener.js
+1550461347696	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1550461348092	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1550461348093	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1550461351626	Marionette	DEBUG	Received DOM event "pageshow" for "http://mol.uat.bwoilmarine.com/mybusiness/#/login"
+[Parent 4836] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1550461353813	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://mol.uat.bwoilmarine.com/mybusiness/#/login"
+JavaScript error: https://js.zohostatic.com/salesiq/Feb_14_2019_2_https/js/siqchatwindow1.js, line 1: TypeError: $Support.theme is undefined
+1550461356021	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://mol.uat.bwoilmarine.com/mybusiness/#/login"
+1550461357981	Marionette	DEBUG	Received DOM event "pageshow" for "http://mol.uat.bwoilmarine.com/mybusiness/#/login"
+1550461375563	Marionette	DEBUG	Received DOM event "pageshow" for "http://mol.uat.bwoilmarine.com/mybusiness/#/login"
+1550461386573	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1550461396584	Marionette	INFO	New connections will no longer be accepted
